@@ -3,7 +3,7 @@
 
 boxes = {
   ubuntu: "ubuntu/xenial64",
-  centos: "centos7.2",
+  centos: "centos/7",
 }
 
 distro = :centos # :ubuntu
